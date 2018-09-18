@@ -4,15 +4,14 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.sunjoy.trm</groupId>
-	<artifactId>sunjoy-trm-web</artifactId>
+	<artifactId>sunjoy-trm-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<description>Train resource managment system</description>
+	<description>The api about Train resource managment system</description>
 
 	<modules>
-		<module>sunjoy-trm-web-service</module>
-		<module>sunjoy-trm-web-master</module>
+		<module>sunjoy-trm-api-wx</module>
 	</modules>
 
 	<parent>
